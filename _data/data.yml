@@ -7,20 +7,20 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Chen Li
-    tagline: Software Engineer
+    name: Robbie Li
+    tagline: Senior Software Engineer
     avatar: profile.png
     
     # Sidebar links
-    email:  swift0701@gmx.com
-    #phone: 425-941-5979
-    website: goinnovise.com
-    #linkedin: loren-anderson
-    #github: TheOfficialLoren
+    email:
+    #phone:
+    website:
+    #linkedin:
+    github: webengineer0606
     gitlab:
     bitbucket:
     twitter:
-    #stack-overflow: 1121638/lorengphd
+    #stack-overflow:
     codewars:
     #goodreads: # Number-Username, e.g. 123456-alandoe
 
@@ -35,8 +35,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Chen Li is a software engineer and consultant focused on web development. He has over a decade of experience in both startup and enterprise business environments building solutions where full-stack skills, creative thinking, and high attention to detail are key, and fast turnaround is paramount.
-
+      Robbie Li is a software engineer and a consultant focused on web development. He has over 10 years of experience in both startup and enterprise business environments building solutions where full-stack skills, creative thinking, and high attention to detail are keys, and fast turnaround is paramount.
 
 education:
     - degree: Bachelor's in Computer Engineering
@@ -46,17 +45,23 @@ experiences:
     - role: Front-End React Developer
       time: January 2019 to November 2019
       company: Red House INC
-      #location: Seattle, WA
+      details: |
+        Worked as a front-end developer for a healthcare platform. Maintained admin dashboards using React, Redux, HTML5, and CSS3. Integrated with backend APIs using JSON, Redux Saga, and Axios. Tested software using Jest, Mocha, and Chai. 
 
     - role: Freelance Web Developer
       time: November 2018 to December 2018
       company: Active AI Coportation
-      
+      details: |
+        Remote contract working on AI chatbot platform using Python, Django, DRF, PostgresSQL, GraphQL, Celery, Redis, Javascript, React, and Apollo. Built flexible, responsive, and beautiful chatbot UI/UX using React. Used Graphene to interact with GraphQL APIs. Deployed REST services using AWS.
+
     - role: Full-Stack Developer
       time: May 2015 to April 2018
       company: Thinkeasy
+      details: |
+        Remote contract work building mobile and web applications. Used Python, Django, Ruby on Rails, React, Vue.js, Angular, iOnic, and React Native. Built API endpoints and services as well as front-end UI/UX for different devices and platforms.
 
 skills:
     title: Skills &amp; Proficiencies
-    languages: "Javascript (10+ years), HTML5 (10+ years), CSS3 (10+ years), PHP (10+ years)"
-    frameworks: "Angular (4 years), AngularJS (8 years), jQuery (10+ years), React (5 years), Node.JS (8 years), GraphQL (2 years)"
+    languages: "Javascript, Python, HTML5, CSS3, PHP"
+    frameworks: "ReactJs, Node.JS, GraphQL, Apollo, VueJs, Angular, AngularJS, jQuery, Django, Ruby on Rails, Bootstrap, Firebase"
+    other: "Microservice Architectures, OO Design, Information Security, AWS, MongoDB NoSql"
